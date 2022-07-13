@@ -33,7 +33,10 @@ cd /Places-major-assignment/Debug
 
 ## Prepare
 * Add header Winsock.h library to source code.
-* Add pre-processor declaration: #pragma comment(lib, "Ws2_32.lib")
+* Add pre-processor declaration:
+```bash
+#pragma comment(lib, "Ws2_32.lib")
+```
 
 ## Authors
 * [LianD-09](https://github.com/LianD-09)

@@ -1,0 +1,25 @@
+﻿  stdafx.cpp
+  Server.cpp
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(59): warning C4091: 'typedef ': ignored on left of 'Favorite' when no variable is declared
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(67): warning C4091: 'typedef ': ignored on left of 'Notification' when no variable is declared
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(91): warning C4018: '<': signed/unsigned mismatch
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(105): warning C4778: 'printf' : unterminated format string '%'
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(105): warning C4474: 'printf' : too many arguments passed for format string
+  h:\visua_studio_2015\project\btl_ck\server\server.cpp(105): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(111): warning C4018: '<': signed/unsigned mismatch
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(122): warning C4018: '<': signed/unsigned mismatch
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(126): warning C4018: '<': signed/unsigned mismatch
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(139): warning C4018: '<': signed/unsigned mismatch
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(143): warning C4018: '<': signed/unsigned mismatch
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(154): warning C4018: '<': signed/unsigned mismatch
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(158): warning C4018: '<': signed/unsigned mismatch
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(175): warning C4018: '<': signed/unsigned mismatch
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(179): warning C4018: '<': signed/unsigned mismatch
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(194): warning C4018: '<': signed/unsigned mismatch
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(198): warning C4018: '<': signed/unsigned mismatch
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(215): warning C4778: 'printf' : unterminated format string '%'
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(215): warning C4474: 'printf' : too many arguments passed for format string
+  h:\visua_studio_2015\project\btl_ck\server\server.cpp(215): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+h:\visua_studio_2015\project\btl_ck\server\server.cpp(116): warning C4715: 'getIdFromUsername': not all control paths return a value
+  Server.vcxproj -> H:\visua_studio_2015\project\BTL_CK\Debug\Server.exe
+  Server.vcxproj -> H:\visua_studio_2015\project\BTL_CK\Debug\Server.pdb (Full PDB)

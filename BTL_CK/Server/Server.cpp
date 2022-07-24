@@ -211,6 +211,24 @@ void savePlace(char *message, char *output) {
 	memcpy(output, nameplace, BUFF_SIZE);
 }
 
+void deletePlace(char *message, char *output) {
+	char nameplace[BUFF_SIZE];
+	memset(nameplace, 0, sizeof(nameplace));
+	for (int i = strlen(message) - 1; i >= 0 && message[i] != ' '; i--) {
+		nameplace[i] = message[i];
+	}
+	memcpy(output, nameplace, BUFF_SIZE);
+}
+
+void getFavoritePlace(char *message, char *output) {
+	char username[BUFF_SIZE];
+	memset(username, 0, sizeof(username));
+	for (int i = strlen(message) - 1; i >= 0 && message[i] != ' '; i--) {
+		username[i] = message[i];
+	}
+	memcpy(output, username, BUFF_SIZE);
+}
+
 void echoProcess(char* message, char* out) {
 	memcpy(out, message, BUFF_SIZE);
 }

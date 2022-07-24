@@ -202,6 +202,15 @@ void declineFriend(char* message, char* out) {
 	memcpy(out, username, BUFF_SIZE);
 }
 
+void savePlace(char *message, char *output) {
+	char nameplace[BUFF_SIZE];
+	memset(nameplace, 0, sizeof(nameplace));
+	for (int i = strlen(message) - 1; i >= 0 && message[i] != ' '; i--) {
+		nameplace[i] = message[i];
+	}
+	memcpy(output, nameplace, BUFF_SIZE);
+}
+
 void echoProcess(char* message, char* out) {
 	memcpy(out, message, BUFF_SIZE);
 }

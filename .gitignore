@@ -1,3 +1,8 @@
-.opendb
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
 .vs/
-.db

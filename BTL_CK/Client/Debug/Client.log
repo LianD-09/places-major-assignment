@@ -1,4 +1,4 @@
-﻿  stdafx.cpp
-  Client.cpp
-  Client.vcxproj -> H:\visua_studio_2015\project\BTL_CK\Debug\Client.exe
-  Client.vcxproj -> H:\visua_studio_2015\project\BTL_CK\Debug\Client.pdb (Full PDB)
+﻿  Client.cpp
+c:\users\doanh\downloads\btl_ck\client\client.cpp(290): warning C4101: 'messageLen': unreferenced local variable
+  Client.vcxproj -> C:\Users\doanh\Downloads\BTL_CK\Debug\Client.exe
+  Client.vcxproj -> C:\Users\doanh\Downloads\BTL_CK\Debug\Client.pdb (Full PDB)

@@ -1,25 +1,59 @@
-﻿  stdafx.cpp
-  Server.cpp
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(59): warning C4091: 'typedef ': ignored on left of 'Favorite' when no variable is declared
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(67): warning C4091: 'typedef ': ignored on left of 'Notification' when no variable is declared
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(91): warning C4018: '<': signed/unsigned mismatch
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(105): warning C4778: 'printf' : unterminated format string '%'
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(105): warning C4474: 'printf' : too many arguments passed for format string
-  h:\visua_studio_2015\project\btl_ck\server\server.cpp(105): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(111): warning C4018: '<': signed/unsigned mismatch
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(122): warning C4018: '<': signed/unsigned mismatch
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(126): warning C4018: '<': signed/unsigned mismatch
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(139): warning C4018: '<': signed/unsigned mismatch
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(143): warning C4018: '<': signed/unsigned mismatch
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(154): warning C4018: '<': signed/unsigned mismatch
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(158): warning C4018: '<': signed/unsigned mismatch
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(175): warning C4018: '<': signed/unsigned mismatch
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(179): warning C4018: '<': signed/unsigned mismatch
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(194): warning C4018: '<': signed/unsigned mismatch
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(198): warning C4018: '<': signed/unsigned mismatch
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(215): warning C4778: 'printf' : unterminated format string '%'
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(215): warning C4474: 'printf' : too many arguments passed for format string
-  h:\visua_studio_2015\project\btl_ck\server\server.cpp(215): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
-h:\visua_studio_2015\project\btl_ck\server\server.cpp(116): warning C4715: 'getIdFromUsername': not all control paths return a value
-  Server.vcxproj -> H:\visua_studio_2015\project\BTL_CK\Debug\Server.exe
-  Server.vcxproj -> H:\visua_studio_2015\project\BTL_CK\Debug\Server.pdb (Full PDB)
+﻿  Server.cpp
+c:\users\doanh\downloads\btl_ck\server\server.cpp(126): warning C4091: 'typedef ': ignored on left of 'Favorite' when no variable is declared
+c:\users\doanh\downloads\btl_ck\server\server.cpp(141): warning C4091: 'typedef ': ignored on left of 'Notification' when no variable is declared
+c:\users\doanh\downloads\btl_ck\server\server.cpp(354): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(388): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(699): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(707): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(720): warning C4778: 'printf' : unterminated format string '%'
+c:\users\doanh\downloads\btl_ck\server\server.cpp(720): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\doanh\downloads\btl_ck\server\server.cpp(720): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\doanh\downloads\btl_ck\server\server.cpp(726): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(735): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(746): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(757): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(767): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(781): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(805): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(809): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(818): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(848): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(852): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(861): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(873): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(897): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(926): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(930): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(936): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(981): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1037): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1041): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1097): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1101): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1122): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1163): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1167): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1186): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1209): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1229): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1233): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1280): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1284): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1276): warning C4101: 'data': unreferenced local variable
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1298): warning C4101: 'buff': unreferenced local variable
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1321): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1325): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1334): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1344): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1391): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1395): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1410): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1452): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1456): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1474): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1512): warning C4018: '<': signed/unsigned mismatch
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1564): warning C4778: 'printf' : unterminated format string '%\n'
+c:\users\doanh\downloads\btl_ck\server\server.cpp(1564): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\doanh\downloads\btl_ck\server\server.cpp(1564): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Server.vcxproj -> C:\Users\doanh\Downloads\BTL_CK\Debug\Server.exe
+  Server.vcxproj -> C:\Users\doanh\Downloads\BTL_CK\Debug\Server.pdb (Full PDB)

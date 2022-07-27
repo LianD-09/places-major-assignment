@@ -1,4 +1,5 @@
-﻿  Client.cpp
-c:\users\doanh\downloads\btl_ck\client\client.cpp(290): warning C4101: 'messageLen': unreferenced local variable
-  Client.vcxproj -> C:\Users\doanh\Downloads\BTL_CK\Debug\Client.exe
-  Client.vcxproj -> C:\Users\doanh\Downloads\BTL_CK\Debug\Client.pdb (Full PDB)
+﻿  stdafx.cpp
+  Client.cpp
+d:\ht\ltm\bài tập lớn\places-major-assignment\btl_ck\client\client.cpp(290): warning C4101: 'messageLen': unreferenced local variable
+  Client.vcxproj -> D:\HT\LTM\Bài tập lớn\places-major-assignment\BTL_CK\Debug\Client.exe
+  Client.vcxproj -> D:\HT\LTM\Bài tập lớn\places-major-assignment\BTL_CK\Debug\Client.pdb (Full PDB)

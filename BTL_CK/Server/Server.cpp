@@ -1551,11 +1551,6 @@ void restoreFavorite(char* message, char* output, int idClient) {
 	}
 }
 
-void echoProcess(char* message, char* out) {
-	memcpy(out, message, BUFF_SIZE);
-}
-
-/* The send() wrapper function*/
 int Send(SOCKET s, char* buff, int size, int flags) {
 	int n;
 
@@ -1566,7 +1561,7 @@ int Send(SOCKET s, char* buff, int size, int flags) {
 	return n;
 }
 
-unsigned __stdcall echoThread(void* param) {
+unsigned __stdcall workerThread(void* param) {
 
 	int index = (int)param;
 	int id = index;
@@ -1801,7 +1796,7 @@ int main(int argc, char* argv[])
 					if (cnt * FD_SETSIZE <= i) {
 						printf("____________________________\nCreate new thread \n");
 
-						_beginthreadex(0, 0, echoThread, (void*)cnt, 0, 0); //start thread
+						_beginthreadex(0, 0, workerThread, (void*)cnt, 0, 0); //start thread
 						EnterCriticalSection(&critical);
 						cnt++;
 						LeaveCriticalSection(&critical);
